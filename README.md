@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lucas.cecareli.ribeiro@gmail.com">
+  <a href="lucas.cecareli.ribeiro@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22"/>
   </a>
   &nbsp;
