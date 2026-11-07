@@ -1,10 +1,21 @@
 <h2 align="center">Lucas Cecareli</h2>
 
 <p align="center">
-  Computer Science student at Instituto Mauá de Tecnologia · São Paulo, Brazil<br/>
-  <a href="mailto:lucas.cecareli.ribeiro@gmail.com">lucas.cecareli.ribeiro@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/lucas-cecareli">LinkedIn</a> ·
-  <a href="#">Portfolio</a>
+  Computer Science student at Instituto Mauá de Tecnologia · São Paulo, Brazil
+</p>
+
+<p align="center">
+  <a href="mailto:lucas.cecareli.ribeiro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lucas-cecareli">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" height="22"/>
+  </a>
 </p>
 
 ---
