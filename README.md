@@ -28,10 +28,10 @@ Currently studying Computer Science and working with real clients and academic p
 ### Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,java,ts,js,clojure,html,css,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,java,ts,js,clojure,html,css,mysql,python&theme=dark" />
 </p>
 
-**Kotlin** · **Dart / Flutter** · **Java** · **TypeScript** · **JavaScript** · **Clojure** · **HTML / CSS** · **MySQL** · **SQL**
+**Kotlin** · **Dart / Flutter** · **Java** · **TypeScript** · **JavaScript** · **Clojure** · **HTML / CSS** · **MySQL** · **SQL** · **PYTHON**
 
 ### Tools
 
